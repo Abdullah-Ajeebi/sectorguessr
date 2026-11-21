@@ -1,0 +1,10 @@
+name: "sectorguessr"
+displayName: "SectorGuessr"
+subtitle: "GeoGuessr for Mindustry — explore HD sectors, guess on the 3D globe."
+author: "abdullah"
+description: "GeoGuessr for Mindustry! Drops you onto a random campaign sector in crisp GPU-baked HD terrain view, then challenges you to pinpoint its exact hex on the 3D planet globe. Supports Serpulo, Erekir, procedural sectors, Move/No-Move/NMPZ modes, and Hide Buildings."
+version: "1.0"
+minGameVersion: "146"
+repo: "Abdullah-Ajeebi/sectorguessr"
+java: false
+hidden: true
